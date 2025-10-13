@@ -4,4 +4,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
+}
+button{
+    background-color: #64a712;
+    color: white;
+    padding: 20px;
 }
